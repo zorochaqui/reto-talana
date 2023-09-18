@@ -11,7 +11,7 @@ Asegúrese de tener instalado Docker en su sistema. Puede descargar Docker desde
 Clone este repositorio en su máquina local utilizando el siguiente comando:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/zorochaqui/reto-talana.git
 ```
 
 ### 2. Navegar al Directorio del Proyecto
@@ -19,7 +19,7 @@ git clone https://github.com/tu-usuario/tu-repositorio.git
 Acceda al directorio del proyecto:
 
 ```bash
-cd tu-repositorio
+cd reto-talana
 ```
 
 ### 3. Construir la Imagen Docker
